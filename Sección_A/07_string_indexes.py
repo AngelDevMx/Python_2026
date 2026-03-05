@@ -17,4 +17,5 @@ print(name[0:6:2])
 
 print(name[::2]) # Si no tiene start y stop toma todo el string y salta de 2 en 2
 
+# Prueba de nuevo cambio
 
