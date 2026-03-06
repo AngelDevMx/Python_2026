@@ -19,3 +19,7 @@ print(name[::2]) # Si no tiene start y stop toma todo el string y salta de 2 en 
 
 # Prueba de nuevo cambio
 
+
+#Ejercicio voltea tu nombre
+my_name = "Luis Angel"
+print(my_name[::-1])

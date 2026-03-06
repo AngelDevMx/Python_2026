@@ -1,0 +1,28 @@
+
+# SUMA
+print(2+2)
+
+# RESTA
+print(2-2)
+
+# MULTIPLICACION
+print(2*2)
+
+# DIVISION
+print(2/2)
+
+# OTRAS OPERACIONES
+print(2**3) #POTENCIA
+
+print(5 // 4) #DIVISION TOMANDO EN CUENTA SOLO EL ENTERO SIN DECIMALES
+
+print(6 % 4) #MODULO OSEA LO QUE SOBRA DE LA DIVISION
+
+
+#REDONDEAR
+print(round(3.1)) 
+print(round(3.7)) 
+
+# VALOR ABSOLUTO
+
+print(abs(-10))
